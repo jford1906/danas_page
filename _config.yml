@@ -1,7 +1,7 @@
-name: 'Dana C. Ernst'
-description: 'Mathematics, Teaching, & Technology'
-tagline: 'Mathematics, Teaching, & Technology'
-url: 'http://dcernst.github.io'
+name: 'Jeff Ford
+#description: 'Mathematics, Teaching, & Technology'
+#tagline: 'Mathematics, Teaching, & Technology'
+url: 'http://jford.org'
 baseurl: ''
 paginate: 10
 
@@ -15,16 +15,16 @@ permalink: pretty
 relative_permalinks: false
 
 # About/contact
-author: Dana C. Ernst
-twitter:
-  username: danaernst
+author: Jeff Ford
+#twitter:
+#  username: danaernst
 
 # GitHub
-github:
-  repo: github.com/dcernst/dcernst.github.io
+#github:
+#  repo: github.com/dcernst/dcernst.github.io
 
 # Feed Stuff
-gems:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
+#gems:
+#  - jekyll-feed
+#  - jekyll-paginate
+#  - jekyll-seo-tag
